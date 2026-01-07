@@ -1,6 +1,7 @@
-# 🏨 Hotel Revenue Analytics – Data Cleaning & Tableau Dashboard Project
+# 🏨 Hotel Revenue Analytics – Python & Tableau Dashboard Project
 
 📌 Summary
+
 An end-to-end data analytics project focused on analyzing hotel revenue, booking behavior, and cancellation patterns to support better revenue management decisions. The project involves cleaning raw hotel booking data using Python, performing exploratory data analysis (EDA), and building an interactive Tableau dashboard to deliver actionable revenue insights for the hospitality domain.
 
 🎯 Objective
@@ -66,4 +67,5 @@ Interactivity
 - Jupyter Notebook – Analysis & Documentation
 
 📝 Description
+
 This project demonstrates an end-to-end hotel revenue analytics workflow using Python and Tableau. Raw hotel booking data was cleaned and transformed in Python to ensure data quality and consistency. Exploratory data analysis was then conducted to uncover revenue patterns, cancellation impacts, and pricing trends. The final Tableau dashboard presents these insights through interactive visuals, enabling stakeholders to make informed revenue management and operational decisions.
